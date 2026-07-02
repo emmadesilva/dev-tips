@@ -2,7 +2,7 @@
 title: "MacOS Terminal Command Editing Shortcuts"
 description: "A cheat sheet of useful editing shortcuts for the macOS terminal"
 date: "2024-11-04"
-author: caen
+author: emma
 ---
 
 **Command Editing Shortcuts**

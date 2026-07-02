@@ -2,7 +2,7 @@
 title: Use HydePHP to create websites at incredible speed
 description: This is a HydePHP website containing random tips to developers on how they can improve their workflows.
 date: "2024-03-23 12:00"
-author: Caen
+author: Emma
 ---
 
 ## About this site
@@ -24,4 +24,4 @@ This is a HydePHP website containing random tips to developers on how they can i
 - Site is incredibly fast and secure, and costs absolutly nothing to host.
 - Fully version controlled using Git, with collaborative GitHub editing using pull requests
 
-See the source code at https://github.com/caendesilva/dev-tips
+See the source code at https://github.com/emmadesilva/dev-tips

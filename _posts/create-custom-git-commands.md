@@ -2,7 +2,7 @@
 title: "Create custom Git commands"
 description: "Wanted to add a custom Git command? It's so easy."
 date: "2024-12-22"
-author: caen
+author: emma
 ---
 
 ### Background

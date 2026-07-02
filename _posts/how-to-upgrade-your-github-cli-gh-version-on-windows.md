@@ -2,7 +2,7 @@
 title: "How to upgrade your GitHub CLI (`gh`) version on Windows"
 description: "Here is how to update your GitHub CLI version on Windows."
 date: "2024-09-01 19:00"
-author: caen
+author: emma
 ---
 
 Here is how to update your GitHub CLI version on Windows. This guide assumes you have already installed GitHub CLI on your system.

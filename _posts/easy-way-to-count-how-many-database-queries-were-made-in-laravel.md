@@ -2,7 +2,7 @@
 title: "Easy way to count how many database queries were made in Laravel"
 #description: ""
 date: "2024-09-27"
-author: caen
+author: emma
 ---
 
 ```php

@@ -2,7 +2,7 @@
 title: "Simple Laravel `make:user` Artisan command"
 description: "Need to make users from the Artisan console? Add this command!"
 date: "2024-08-30"
-author: caen
+author: emma
 ---
 
 Need to make users from the Artisan console? Add this command!

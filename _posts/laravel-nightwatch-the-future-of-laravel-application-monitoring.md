@@ -2,7 +2,7 @@
 title: "Laravel Nightwatch: The Future of Laravel Application Monitoring Revealed at Laracon AU"
 description: "Laravel's ecosystem continues to expand with the announcement of Laravel Nightwatch at Laracon AU - a sophisticated monitoring platform specifically engineered for Laravel applications."
 date: "2024-11-07"
-author: caen
+author: emma
 ---
 
 Laravel's ecosystem continues to expand with the announcement of **Laravel Nightwatch** at Laracon AU - a sophisticated monitoring platform specifically engineered for Laravel applications. Set for early access in Q1 2025, Nightwatch promises to revolutionize how developers monitor and maintain their Laravel applications.

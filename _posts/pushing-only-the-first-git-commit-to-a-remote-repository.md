@@ -1,7 +1,7 @@
 ---
 title: "Pushing Only the First Git Commit to a Remote Repository"
 date: "2024-03-23"
-author: Caen
+author: Emma
 description: Learn to push only the first Git commit to a remote repository while keeping others untouched.
 ---
 

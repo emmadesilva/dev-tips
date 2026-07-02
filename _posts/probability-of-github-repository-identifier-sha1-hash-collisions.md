@@ -2,7 +2,7 @@
 title: "Probability of GitHub Repository Identifier SHA1 Hash Collisions"
 description: "Worried about SHA1 hash collisions when hashing GitHub repository names? Don't be."
 date: "2024-08-26"
-author: caen
+author: emma
 co_author: Claude
 ---
 

@@ -2,7 +2,7 @@
 title: "Cursor AI Editor vs PhpStorm - a quick Laravel comparison"
 description: "I was asked on Twitter to compare the hot new Cursor AI Editor with PhpStorm for Laravel developers. Here are my quick thoughts!"
 date: "2024-09-13"
-author: caen
+author: emma
 ---
 
 I was asked on [Twitter](https://x.com/eugenefvdm/status/1834507718302069188) to compare the hot new Cursor AI Editor with PhpStorm for Laravel developers. Here are my quick thoughts!

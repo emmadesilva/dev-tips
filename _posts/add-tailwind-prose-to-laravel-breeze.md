@@ -1,7 +1,7 @@
 ---
 title: 'How to add Tailwind prose to Laravel Breeze'
 description: 'Here is how to add the Tailwind Typography plugin to Laravel Breeze to get the prose classes'
-author: caen
+author: emma
 date: '2024-04-06 08:00'
 ---
 

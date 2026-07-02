@@ -2,7 +2,7 @@
 title: 'Recover overwritten stash in GitHub Desktop'
 date: '2024-04-11 12:24:32'
 description: 'Learn how to recover an overwritten stash in GitHub Desktop.'
-author: caen
+author: emma
 ---
 
 ## Background
@@ -48,9 +48,9 @@ From here, you can cherry pick the changes you need to your original branch.
 
 ## Conclusion
 
-I hope this guide helps you recover an overwritten stash in GitHub Desktop! If it saved you some time, consider [sharing it with others](https://twitter.com/intent/tweet?text=How%20to%20recover%20overwritten%20stash%20in%20%23GitHubDesktop%20by%20%40CodeWithCaen&url=https%3A%2F%2Ftips.desilva.se%2Fposts%2Frecover-overwritten-stash-in-github-desktop) who might find it useful.
+I hope this guide helps you recover an overwritten stash in GitHub Desktop! If it saved you some time, consider [sharing it with others](https://twitter.com/intent/tweet?text=How%20to%20recover%20overwritten%20stash%20in%20%23GitHubDesktop%20by%20%40EmmaDSCodes&url=https%3A%2F%2Ftips.desilva.se%2Fposts%2Frecover-overwritten-stash-in-github-desktop) who might find it useful.
 
-- You can support me by following me on Twitter <a href="https://twitter.com/CodeWithCaen">CodeWithCaen</a>. If I really helped, you can also <a href="https://www.buymeacoffee.com/caen">Buy me a coffee</a>!
+- You can support me by following me on Twitter <a href="https://twitter.com/EmmaDSCodes">EmmaDSCodes</a>. If I really helped, you can also <a href="https://www.buymeacoffee.com/emma">Buy me a coffee</a>!
 - You can also support the original authors by visiting the post on Stackoverflow linked below and upvoting the answer.
 
 ### Attributions

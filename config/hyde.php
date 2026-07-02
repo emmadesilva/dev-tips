@@ -286,9 +286,9 @@ return [
 
     'authors' => [
         Author::create(
-            'caen', // Required username
-            'Caen', // Optional display name
-            'https://twitter.com/CodeWithCaen' // Optional website URL
+            'emma', // Required username
+            'Emma', // Optional display name
+            'https://twitter.com/EmmaDSCodes' // Optional website URL
         ),
     ],
 
@@ -308,7 +308,7 @@ return [
     |
     */
 
-    'footer' => 'Site proudly built with [HydePHP](https://github.com/hydephp/hyde) - Site source code on [GitHub](https://github.com/caendesilva/dev-tips) <img width="20px" style="display: inline;margin: 0;margin-left: 2px;top: -2px;position: relative;" src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt=":octocat:">',
+    'footer' => 'Site proudly built with [HydePHP](https://github.com/hydephp/hyde) - Site source code on [GitHub](https://github.com/emmadesilva/dev-tips) <img width="20px" style="display: inline;margin: 0;margin-left: 2px;top: -2px;position: relative;" src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt=":octocat:">',
 
     /*
     |--------------------------------------------------------------------------

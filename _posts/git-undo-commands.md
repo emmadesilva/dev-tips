@@ -2,7 +2,7 @@
 title: "Git Undo Commands"
 description: "Wondering how to undo a commit in Git? Here are your options."
 date: "2024-10-17"
-author: caen
+author: emma
 ---
 
 To undo changes in Git, you can use the following commands, depending on what you want to undo:

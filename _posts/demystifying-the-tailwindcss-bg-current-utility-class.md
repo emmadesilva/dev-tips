@@ -2,7 +2,7 @@
 title: "Demystifying the TailwindCSS `bg-current` utility class"
 description: "Wondering what `bg-current` does? Read this quick tip and wonder no longer!"
 date: "2024-11-15"
-author: caen
+author: emma
 ---
 
 The `bg-current` utility class in TailwindCSS sets the background color of an element to the current text color. This means that the background will inherit the color defined by the `text-color` property of the element or its parent.

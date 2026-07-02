@@ -2,7 +2,7 @@
 title: 'Create static directory listings on GitHub Actions/Pages'
 date: '2024-04-14 16:40'
 description: 'Learn how to automatically create static directory listings on GitHub Actions/Pages with a simple PHP script.'
-author: caen
+author: emma
 ---
 
 ## Background
@@ -17,7 +17,7 @@ Best parts: It's totally free, has no dependencies, and works perfectly in GitHu
 
 Here's a screenshot of the directory listing created by the script:
 
-![Directory Listing](https://raw.githubusercontent.com/caendesilva/dev-tips/master/_media/screely-1713105882661.png)
+![Directory Listing](https://raw.githubusercontent.com/emmadesilva/dev-tips/master/_media/screely-1713105882661.png)
 
 ## Trying it locally
 
@@ -26,7 +26,7 @@ To get started, you can try the script locally. Here's how:
 Download the script from the GitHub repository:
 
 ```bash
-wget https://raw.githubusercontent.com/caendesilva/php-directory-listing/master/directory-listing.php -O directory-listing.php
+wget https://raw.githubusercontent.com/emmadesilva/php-directory-listing/master/directory-listing.php -O directory-listing.php
 ```
 
 Next run the script in your terminal:
@@ -64,7 +64,7 @@ jobs:
 
       # Download the directory listing script
       - name: Download Directory Listing Script
-        run: wget https://raw.githubusercontent.com/caendesilva/php-directory-listing/master/directory-listing.php -O directory-listing.php
+        run: wget https://raw.githubusercontent.com/emmadesilva/php-directory-listing/master/directory-listing.php -O directory-listing.php
 
       # Run the directory listing script
       - name: Run Directory Listing Script
@@ -88,4 +88,4 @@ This workflow will create a directory listing of the repository files and publis
 
 That's it! You now have a simple way to create static directory listings on GitHub Actions/Pages. Feel free to customize the script or workflow to fit your needs.
 
-See the source code at https://github.com/caendesilva/php-directory-listing and try the live demo at https://git.desilva.se/php-directory-listing/.
+See the source code at https://github.com/emmadesilva/php-directory-listing and try the live demo at https://git.desilva.se/php-directory-listing/.

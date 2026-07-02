@@ -2,7 +2,7 @@
 title: "How to publish the Laravel maintenance mode view"
 description: "Wondering how to customize the maintenance mode view in Laravel? Just publish the 503 error page."
 date: "2024-09-01 17:00"
-author: caen
+author: emma
 ---
 
 ## Publish the Laravel maintenance mode view
@@ -74,4 +74,4 @@ Feel free to adjust the `checkInterval` to your liking. Lower values leads to le
 
 ## Conclusion
 
-If any part of this post was helpful, please let me know and give me a follow on Twitter/X where I'm [@CodeWithCaen](https://twitter.com/CodeWithCaen)
+If any part of this post was helpful, please let me know and give me a follow on Twitter/X where I'm [@EmmaDSCodes](https://twitter.com/EmmaDSCodes)

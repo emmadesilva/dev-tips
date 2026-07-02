@@ -2,7 +2,7 @@
 title: "New `@bool` Blade directive in Laravel"
 description: "Learn how to use the new `@bool` directive in Laravel's Blade templating engine for efficient boolean value handling in JavaScript and HTML attributes."
 date: "2024-10-20"
-author: caen
+author: emma
 ---
 
 ## The new `@bool` Blade directive
@@ -55,4 +55,4 @@ While this feature isn't released yet, it's expected to be available soon. Keep 
 
 The @bool directive is a small but powerful addition to Blade that will make working with boolean values in your templates much more convenient.
 
-If any part of this post was helpful, please let me know and give me a follow on Twitter/X where I'm [@CodeWithCaen](https://twitter.com/CodeWithCaen)
+If any part of this post was helpful, please let me know and give me a follow on Twitter/X where I'm [@EmmaDSCodes](https://twitter.com/EmmaDSCodes)

@@ -1,7 +1,7 @@
 ---
 title: 'Ubuntu system temperature script without any software installs'
 description: 'How to check the temperature of your Ubuntu system without installing any software, with a Bash alias to make it easier.'
-author: caen
+author: emma
 date: '2024-06-26 10:00'
 ---
 

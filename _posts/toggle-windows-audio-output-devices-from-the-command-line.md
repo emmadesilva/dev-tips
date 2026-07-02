@@ -1,7 +1,7 @@
 ---
 title: 'Toggle Windows audio output devices from the command line'
 description: 'How to toggle between two Windows audio output devices using a PowerShell script and the AudioDeviceCmdlets module.'
-author: caen
+author: emma
 date: '2024-07-01 10:00'
 ---
 
@@ -9,7 +9,7 @@ date: '2024-07-01 10:00'
 
 Here's a simple PowerShell script to toggle between two Windows audio output devices using the AudioDeviceCmdlets module. This script can be run from the command line or even bound as a macro to your keyboard for quick switching.
 
-The full GitHub project is at https://github.com/caendesilva/WindowsToggleAudioDevice
+The full GitHub project is at https://github.com/emmadesilva/WindowsToggleAudioDevice
 
 ### Installation
 
@@ -35,12 +35,12 @@ This command will list all audio devices with their IDs and names. Take note of 
 
 ### Download `ToggleAudioDevice.ps1`
 
-Next, download the `ToggleAudioDevice.ps1` file from [GitHub](https://github.com/caendesilva/WindowsToggleAudioDevice), preferably into your `$PATH`.
+Next, download the `ToggleAudioDevice.ps1` file from [GitHub](https://github.com/emmadesilva/WindowsToggleAudioDevice), preferably into your `$PATH`.
 
 You can also just copy the following file contents, just note that it may not be up to date!
 
 ```powershell
-# https://github.com/caendesilva/WindowsToggleAudioDevice/blob/master/ToggleAudioDevice.ps1
+# https://github.com/emmadesilva/WindowsToggleAudioDevice/blob/master/ToggleAudioDevice.ps1
 
 Import-Module AudioDeviceCmdlets
 

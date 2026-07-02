@@ -1,7 +1,7 @@
 ---
 title: Use the Laravel Arr helpers directly instead of using temporary collections
 description: 'Instead of creating a temporary collection just to use array helpers, you can use the Laravel Arr helpers directly.'
-author: caen
+author: emma
 date: '2024-04-09 08:00'
 ---
 

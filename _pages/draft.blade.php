@@ -62,7 +62,7 @@
 title: "${title}"
 description: "${description}"
 date: "${date}"
-author: caen
+author: emma
 ---`;
 
             const markdown = `${frontMatter}\n\n${body.trim()}\n`;
@@ -71,7 +71,7 @@ author: caen
             const encodedMarkdown = encodeURIComponent(markdown);
 
             // Generate GitHub URL
-            const githubUrl = `https://github.com/caendesilva/dev-tips/new/master/_posts?filename=${slug}.md&value=${encodedMarkdown}`;
+            const githubUrl = `https://github.com/emmadesilva/dev-tips/new/master/_posts?filename=${slug}.md&value=${encodedMarkdown}`;
 
             // Open the GitHub URL
             window.open(githubUrl, '_blank');
